@@ -9,5 +9,7 @@ Hey guys:
   This is work in progress. Any suggestion is welcome!
 
 References:
+
 HED in tensorflow: https://github.com/harsimrat-eyeem/holy-edge
+
 HED in tensorpack: https://github.com/ppwwyyxx/tensorpack/tree/master/examples/HED
