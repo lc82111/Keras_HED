@@ -5,7 +5,9 @@ Holistically-Nested Edge Detection in Keras
 Hey guys:
 
   I implement the Holistically-Nested Edge Detection in Keras.
-  The code was heavily copied from two implementations in tensorflow and tensorpack.  Thank you.
+  
+  The code was heavily copied from keras and two other implementations in tensorflow and tensorpack.
+  
   This is work in progress. Any suggestion is welcome!
 
 References:
