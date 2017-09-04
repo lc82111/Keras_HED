@@ -1,7 +1,9 @@
 # Keras_HED
+
 Holistically-Nested Edge Detection in Keras
 
-https://github.com/lc82111/Keras_HED/blob/master/Screen%20Shot%202017-09-04%20at%2011.06.13%20AM.png
+![Alt text](Keras_HED/Screen Shot 2017-09-04 at 11.06.13 AM.png?raw=true "Optional Title")
+
 
 Hey guys:
 
