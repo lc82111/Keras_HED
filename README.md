@@ -2,7 +2,7 @@
 
 Holistically-Nested Edge Detection in Keras
 
-![Alt text](Keras_HED/Screen Shot 2017-09-04 at 11.06.13 AM.png?raw=true "Optional Title")
+![Result](Screen Shot 2017-09-04 at 11.06.13 AM.png?raw=true "Optional Title")
 
 
 Hey guys:
