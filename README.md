@@ -2,9 +2,6 @@
 
 Holistically-Nested Edge Detection in Keras
 
-![Result](./Screen_Shot.png)
-
-
 Hey guys:
 
   I implement the Holistically-Nested Edge Detection in Keras.
@@ -20,4 +17,6 @@ References:
 HED in tensorflow: https://github.com/harsimrat-eyeem/holy-edge
 
 HED in tensorpack: https://github.com/ppwwyyxx/tensorpack/tree/master/examples/HED
+
+![Result](./Screen_Shot.png)
 
